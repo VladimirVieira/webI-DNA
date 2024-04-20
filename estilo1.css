@@ -1,0 +1,30 @@
+#menu{
+	background:#0B3B0B;
+	padding: 18px; /*espaçamento interno */
+}
+
+
+body{
+	background: #000000;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none; /*remove underline*/
+	font-weight: bold;
+	padding: 5px;
+}
+
+.formatar{
+	color: #FFFFFF;
+}
+
+.fotos{
+	border: 10px solid #0B3B0B;
+}
+
+.anterior{
+	color:454545;
+}
+
