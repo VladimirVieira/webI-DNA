@@ -8,7 +8,7 @@ Com o intuíto de realizar divulgação científica foi escolhido como temática
 Desenvolver um site apenas com CSS e HTML para a disciplina de Desenvolvimento WEB I.
 
 #Discente
-Vladimir Vieira do Nascimento
+Vladimir Vieira do Nascimento (Discente)
 
 
  
